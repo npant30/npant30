@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @npant30
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React JS
 
 <!---
 npant30/npant30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
